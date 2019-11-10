@@ -73,7 +73,7 @@ h1, h2 {
     padding: 20px 25px;
 }
 
-.section__header {
+.section-header {
     background-image: url('../img/top.jpg');
     background-position: center;
     background-size: cover;
@@ -168,7 +168,7 @@ h1, h2 {
     background-color: #802c15;
 }
 
-.section__about {
+.section-about {
     background-color: #00b0b0;
     padding: 75px 20px;
 }
@@ -195,7 +195,7 @@ h1, h2 {
     line-height: 27px;
 }
 
-.section__blog {
+.section-blog {
     background: #b07cf7;
 }
 
@@ -283,18 +283,18 @@ h1, h2 {
 
 }
 
-.section__contact {
+.section-contact {
     background-image: url(../img/bg.jpg);
     background-position: center;
     background-size: cover;
 }
 
-.contact__header {
+.contact-header {
     margin: 0 0 45px 0;
 }
 
 
-.contact__dec {
+.contact-header__dec {
     font-weight: 300;
     font-size: 17px;
     color: #262626;
